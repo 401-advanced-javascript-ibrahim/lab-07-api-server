@@ -22,10 +22,16 @@
 #### Tests
 
 * How do you run tests?
+
+`npm run test` 
+
 * Any tests of note?
+
+nothing yet
+
 * Describe any tests that you did not complete, skipped, etc
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+![](assesst/07.png)
 
