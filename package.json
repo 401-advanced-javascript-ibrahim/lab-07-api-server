@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --verbose --coverage",
+    "lint": "eslint '**/*.js'",
     "start": "nodemon index.js"
   },
   "repository": {
